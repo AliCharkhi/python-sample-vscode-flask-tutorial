@@ -1,3 +1,3 @@
 def test_ali():
   print('Hello World')
-  assert 6=6
+  assert 6==6
